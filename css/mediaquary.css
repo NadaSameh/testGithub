@@ -1,0 +1,29 @@
+@media(min-width:768px){
+    .navbar-header{
+    float: right;
+}
+} 
+@media(max-width:768px){
+  .navbar-inverse .navbar-collapse{
+    border-color:#222222;
+    width: 100%;
+    border-top: 1px solid black;
+    padding: 10px 83px;
+}}
+@media(min-width:1200px){
+.socialmedia {
+    margin-right: 300px;
+}}
+
+@media(min-width:1200px){
+    .navbar-nav{
+        margin-right: 150px;
+    }   
+}
+@media(min-width:768px){
+    .headimg{
+        font-size:20px;
+        width: 100%;
+        text-align: center;
+    }   
+}
